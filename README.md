@@ -1,101 +1,131 @@
-# Hi, I'm Hutej 👋
-
-🚀 Final-Year Computer Engineering Student
-🧠 Builder | Research-Oriented | Systems Thinker
-
----
-
-## 🧭 About Me
-
-I'm passionate about designing intelligent systems, solving complex engineering problems, and turning ideas into real-world products. I enjoy working across software engineering, artificial intelligence, distributed systems, and cybersecurity while continuously learning through hands-on development and research.
-
----
-
-## 🚀 Current Focus
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Natural Language Processing
-* 🔗 Blockchain & Distributed Systems
-* 🛡️ Cybersecurity & Ethical Hacking
-* 🌐 Backend Development
-* 📊 Research & System Design
-
----
-
-## ⚙️ Tech Stack
-
-### Languages
-
-* Python
-* C++
-* Rust
-
-### AI / Machine Learning
-
-* PyTorch
-* Hugging Face Transformers
-* YOLO
-* OpenCV
-* Scikit-learn
-* NumPy
-* Pandas
-
-### Backend
-
-* Django
-* FastAPI
-* REST APIs
-* PostgreSQL
-* SQLite
-
-### DevOps & Tools
-
-* Git
-* GitHub
-* Docker
-* Linux
-* VS Code
-
----
-
-## 📚 Currently Learning
-
-* Advanced AI Systems
-* Large Language Models (LLMs)
-* Distributed Systems
-* Blockchain Development
-* Quantum Computing
-* System Architecture
-
----
-
-## 🏆 Achievements
-
-* 🥇 1st Place — Sinrem Tech Hackathon
-* 🚀 Active Hackathon Participant
-* 📖 Passionate about engineering research and building production-ready systems
-
----
-
-## 📈 GitHub Stats
+<!-- Animated Header -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hutej&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Hutej&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hutej&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Hutej;Computer+Engineering+Student;AI+%7C+Backend+%7C+Blockchain+%7C+Cybersecurity;Building+Systems.+Learning+Every+Day." />
+</p>
+
+<h1 align="center">Hi, I'm Hutej 👋</h1>
+
+<p align="center">
+Computer Engineering Student • Builder • Research Enthusiast
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🧭 About Me
 
-* 📧 **Email:** [hutehjmane880@gmail.com](mailto:hutehjmane880@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/hutej-mane
+I'm a Computer Engineering student passionate about building intelligent systems and solving complex engineering problems.
+
+My interests span Artificial Intelligence, Backend Engineering, Distributed Systems, Blockchain, Cybersecurity, and System Design. I enjoy learning by building practical software, participating in hackathons, and exploring emerging technologies through research and experimentation.
 
 ---
 
-## 💡 Philosophy
+# 🚀 Areas of Interest
 
-> *"Build. Learn. Research. Improve. Repeat."*
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Natural Language Processing
+- 🔗 Blockchain & Distributed Systems
+- 🛡️ Cybersecurity & Ethical Hacking
+- ⚙️ Backend Engineering
+- 📊 System Design
+- 📖 Engineering Research
 
-I'm always exploring new technologies, contributing to innovative projects, and pushing myself to build better software every day.
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,postgres" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+Also Experienced With
+
+- Hugging Face Transformers
+- Scikit-learn
+- NumPy
+- Pandas
+- YOLO
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced AI Systems
+- Large Language Models (LLMs)
+- Distributed Systems
+- Blockchain Development
+- Quantum Computing
+
+---
+
+# 🏆 Achievements
+
+🏅 Participated in 12+ National & College Hackathons
+
+🥇 Won 1 Hackathon • Finalist in Multiple Competitions
+
+💭 "Every hackathon leaves with either a trophy or a lesson. Both are worth collecting."
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hutej&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Hutej&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hutej&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hutej&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+> hutehjmane880@gmail.com
+
+💼 **LinkedIn**
+
+> https://www.linkedin.com/in/hutej-mane
+
+---
+
+# 💡 Philosophy
+
+> **Build. Learn. Research. Improve. Repeat.**
+
+I enjoy transforming ideas into practical software, continuously expanding my technical knowledge, and working on challenging engineering problems that have real-world impact.
