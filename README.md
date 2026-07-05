@@ -80,11 +80,9 @@ I'm passionate about designing intelligent systems, solving complex engineering 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hutej&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Hutej&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutej&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hutej&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Hutej&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hutej&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
