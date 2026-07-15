@@ -116,7 +116,7 @@ Also Experienced With
 
 📧 **Email**
 
-> hutehjmane880@gmail.com
+> hutej@revueon.com
 
 💼 **LinkedIn**
 
