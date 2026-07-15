@@ -80,7 +80,7 @@ Also Experienced With
 
 # 🏆 Achievements
 
-🏅 Participated in 12+ National & College Hackathons
+🏅 Participated in 10+ National & College Hackathons
 
 🥇 Won 1 Hackathon • Finalist in Multiple Competitions
 
